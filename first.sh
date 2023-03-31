@@ -2,7 +2,7 @@
 echo "hii"
 echo "before"
 pwd
-sudo source /snap/first/x1/two.sh
+source /snap/first/x1/two.sh
 echo "before fun"
 abc
 echo "after fun"
