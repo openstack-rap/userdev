@@ -1,5 +1,5 @@
 #!/bin/bash
 abc(){
-echo "function"
+echo "worked"
 }
 
