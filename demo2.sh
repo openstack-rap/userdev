@@ -2,7 +2,7 @@
 echo "hii"
 echo "before"
 pwd
-source /snap/test/x1/two.sh
+source /snap/demo2/x1/tools/two.sh
 echo "before fun"
 abc
 echo "after fun"
